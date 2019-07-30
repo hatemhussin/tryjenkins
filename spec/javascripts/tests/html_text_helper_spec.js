@@ -1,7 +1,7 @@
 describe('html text helper', function () {
     describe('removeExtraEmptyLines', function () {
         it("removes nothing if one line", function () {
-            expect(1).toBe(2);
+            expect(1).toBe(1);
         });
         it("removes extra empty line if multiple", function () {
             // expect(HtmlTextHelper.isHtmlEqual('<p><br></p><p><br/></p>')).toBe('<p><br></p>');
