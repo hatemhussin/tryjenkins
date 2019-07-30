@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "istanbul": "^0.4.5"
+  },
+  "devDependencies": {}
+}
