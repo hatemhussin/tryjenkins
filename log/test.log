@@ -257,3 +257,23 @@ Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f5
 Started GET "/assets/spec_helper.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1?body=1&instrument=1" for 127.0.0.1 at 2019-07-30 11:55:59 +0200
 Started GET "/assets/tests/html_text_helper_spec.self-c819c799a0ac61f1630c76a1bc897b81cbabcd1077894505c7b25102f7d1693a.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 11:55:59 +0200
 Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1?body=1&instrument=1" for 127.0.0.1 at 2019-07-30 11:56:00 +0200
+Started GET "/teaspoon/test_suite?reporter=Console" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Processing by Teaspoon::SuiteController#show as HTML
+  Parameters: {"reporter"=>"Console", "suite"=>"test_suite"}
+  Rendering /Users/hatemmohamedhussin/.rvm/gems/ruby-2.3.7/gems/teaspoon-1.1.5/app/views/teaspoon/suite/show.html.erb
+  Rendered /Users/hatemmohamedhussin/.rvm/gems/ruby-2.3.7/gems/teaspoon-1.1.5/app/views/teaspoon/suite/_boot.html.erb (99.9ms)
+  Rendered /Users/hatemmohamedhussin/.rvm/gems/ruby-2.3.7/gems/teaspoon-1.1.5/app/views/teaspoon/suite/_body.html.erb (0.6ms)
+  Rendered /Users/hatemmohamedhussin/.rvm/gems/ruby-2.3.7/gems/teaspoon-1.1.5/app/views/teaspoon/suite/show.html.erb (524.0ms)
+Completed 200 OK in 687ms (Views: 528.0ms)
+Started GET "/assets/teaspoon-00bb0f078f3a13255a69bd82590e1ec13bde7569c35e1eb456fb7c63c8a1882b.css" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/jasmine/2.3.4-aa35a2d6ef4c597846860937831b786d7a7b61cf7b7d860a06b484aa1b637276.js" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/support/phantomjs-shims.self-f6867d3adaf9c1a659d0ca8e170f147e97bbde37736890cf05d84e7b5020fed4.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/teaspoon-jasmine2-193432e902b3943f7e511bf7ba322e1ce098119d180978aaff50918567da9361.js" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/action_cable.self-5454023407ffec0d29137c7110917e1e745525ae9afbc05f52104c4cd6597429.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/spec_helper.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/tests/html_text_helper_spec.self-c819c799a0ac61f1630c76a1bc897b81cbabcd1077894505c7b25102f7d1693a.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1?body=1" for 127.0.0.1 at 2019-07-30 12:11:30 +0200

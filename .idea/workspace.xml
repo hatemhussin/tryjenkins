@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d648bb23-44c4-4c53-92aa-faedc4ce6d03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spec/javascripts/tests/html_text_helper_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/javascripts/tests/html_text_helper_spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="d648bb23-44c4-4c53-92aa-faedc4ce6d03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -129,8 +127,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="129" />
+    <option name="x" value="17" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="772" />
   </component>
@@ -313,12 +311,12 @@
       <workItem from="1564402102926" duration="3323000" />
       <workItem from="1564409824602" duration="1455000" />
       <workItem from="1564479913869" duration="137000" />
-      <workItem from="1564480066239" duration="698000" />
+      <workItem from="1564480066239" duration="1357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10008000" />
+    <option name="totallyTimeSpent" value="10667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,8 +328,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="129" width="1400" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="17" y="23" width="1400" height="772" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28645065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
